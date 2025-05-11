@@ -1,0 +1,20 @@
+{
+  "name": "url-guard",
+  "version": "1.0.0",
+  "description": "harleywashere. URL Guard",
+  "main": "harley.js",
+  "scripts": {
+    "start": "node harley.js"
+  },
+  "author": "harleywashere.",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
