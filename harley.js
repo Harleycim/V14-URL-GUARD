@@ -11,7 +11,7 @@ const client = new Client({
   ],
 });
 
-// Botun durumu ayarlanıyor
+
 client.on('ready', () => {
   try {
     client.user.setPresence({
@@ -25,7 +25,7 @@ client.on('ready', () => {
   }
 });
 
-// URL kontrol fonksiyonu
+
 function checkURL(message) {
   try {
     const regex = /https?:\/\/[^\s]+/g;
@@ -77,7 +77,7 @@ function checkURL(message) {
   }
 }
 
-// Mesaj geldiğinde kontrol et
+
 client.on('messageCreate', (message) => {
   try {
     
