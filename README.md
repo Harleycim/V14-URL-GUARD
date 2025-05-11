@@ -1,4 +1,4 @@
-# Harley Discord Bot
+# Harley URL GUARD
 
 Bu proje, Discord botu geliştiren bir açık kaynaklı projedir. Kullanıcıların Discord sunucularını **korumak** için tasarlanmıştır. Bot, URL koruması, kullanıcı yönetimi, kanal yönetimi ve diğer gelişmiş güvenlik özellikleri sunar.
 
