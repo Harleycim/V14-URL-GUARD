@@ -19,5 +19,6 @@ Bu proje, Discord botu geliştiren bir açık kaynaklı projedir. Kullanıcılar
 2. Cmd veya Powershell Aç
 3. npm install
 4. config.js dosyasını eksiksiz doldur
+5. node harley.js
 
 Herhangi bir hata durumunda bana gelmeyin kendiniz çözün
